@@ -1,0 +1,168 @@
+p = 0.5
+lambda =  6
+k =  3
+mean_clients =  1.7106
+
+lambda =  6
+k =  4
+mean_clients =  1.8913
+
+lambda =  6
+k =  5
+mean_clients =  1.9546
+
+lambda =  6
+k =  6
+mean_clients =  2.0146
+
+Best k for lambda=6: 6
+--------------------
+lambda =  7
+k =  3
+mean_clients =  2.1819
+
+lambda =  7
+k =  4
+mean_clients =  2.4097
+
+lambda =  7
+k =  5
+mean_clients =  2.4847
+
+lambda =  7
+k =  6
+mean_clients =  2.5669
+
+No Best k found for lambda=7
+--------------------
+lambda =  8
+k =  3
+mean_clients =  2.6129
+
+lambda =  8
+k =  4
+mean_clients =  2.8598
+
+lambda =  8
+k =  5
+mean_clients =  2.9254
+
+lambda =  8
+k =  6
+mean_clients =  3.0123
+
+No Best k found for lambda=8
+--------------------
+~~~~~~~~~~~~~~~~~~~~
+p = 0.2
+lambda =  6
+k =  3
+mean_clients =  1.5067
+
+lambda =  6
+k =  4
+mean_clients =  1.7678
+
+lambda =  6
+k =  5
+mean_clients =  1.8774
+
+lambda =  6
+k =  6
+mean_clients =  1.9824
+
+Best k for lambda=6: 6
+--------------------
+lambda =  7
+k =  3
+mean_clients =  1.9180
+
+lambda =  7
+k =  4
+mean_clients =  2.2404
+
+lambda =  7
+k =  5
+mean_clients =  2.3744
+
+lambda =  7
+k =  6
+mean_clients =  2.5117
+
+No Best k found for lambda=7
+--------------------
+lambda =  8
+k =  3
+mean_clients =  2.3166
+
+lambda =  8
+k =  4
+mean_clients =  2.6853
+
+lambda =  8
+k =  5
+mean_clients =  2.7943
+
+lambda =  8
+k =  6
+mean_clients =  2.9422
+
+No Best k found for lambda=8
+--------------------
+~~~~~~~~~~~~~~~~~~~~
+p = 0.7
+lambda =  6
+k =  3
+mean_clients =  1.8456
+
+lambda =  6
+k =  4
+mean_clients =  1.9745
+
+lambda =  6
+k =  5
+mean_clients =  2.0016
+
+lambda =  6
+k =  6
+mean_clients =  2.0389
+
+Best k for lambda=6: 5
+--------------------
+lambda =  7
+k =  3
+mean_clients =  2.3671
+
+lambda =  7
+k =  4
+mean_clients =  2.5092
+
+lambda =  7
+k =  5
+mean_clients =  2.5531
+
+lambda =  7
+k =  6
+mean_clients =  2.6036
+
+No Best k found for lambda=7
+--------------------
+lambda =  8
+k =  3
+mean_clients =  2.8176
+
+lambda =  8
+k =  4
+mean_clients =  2.9745
+
+lambda =  8
+k =  5
+mean_clients =  3.0070
+
+lambda =  8
+k =  6
+mean_clients =  3.0560
+
+No Best k found for lambda=8
+--------------------
+~~~~~~~~~~~~~~~~~~~~
